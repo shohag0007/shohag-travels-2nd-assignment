@@ -167,3 +167,14 @@ line-height: 26px; /* 162.5% */
 height: 300px;
 flex-shrink: 0;
 }
+
+/* why choose us */
+
+.choose-us .choose-us-title {
+    text-align: center;
+    
+}
+
+.choose-us-title .choose-us-description{
+    text-align:center;
+}
