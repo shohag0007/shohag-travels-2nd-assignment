@@ -522,20 +522,20 @@ nav {
 
 .footer-section {
     background: rgba(19, 19, 24, 0.05);
-    width: 1440px;
-    height: 502px;
+    max-width: 1170px;
+    
+
+   
 }
 
 .footer-finish {
     text-align: center;
-    Copy color: #131318;
-
-
-
-
+     color: #131318;
 }
 
 
 
 
-@media screen and (max-width: 992px) @media screen and (min-width: 600px)
+@media screen and (max-width: 992px)
+
+@media screen and (min-width: 600px)
